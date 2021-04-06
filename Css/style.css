@@ -1,3 +1,6 @@
+body {
+    background-color: black;
+}
 .container {
     position: relative;
     margin: auto;
